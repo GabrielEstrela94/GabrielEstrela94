@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Hoje Trabalho com Business Intelligence.
+- 🔭 Hoje sou Analista de Dados Jr.
 - 🌱 Estudando Python, AWS, Docker e Airflow.
 - 😄 Pronouns: ele/dele
 
