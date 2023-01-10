@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Hoje sou Analista de Dados Jr.
-- 🌱 Estudando Python, AWS, Docker e Airflow.
+- 🔭 Hoje trabalho com Data Science e Analytics.
+- 🌱 Estudando Python, R e Storytelling.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
